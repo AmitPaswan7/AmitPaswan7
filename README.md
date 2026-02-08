@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/akkipaswan25" target="blank"><img src="https://img.shields.io/twitter/follow/akkipaswan25?logo=twitter&style=for-the-badge" alt="akkipaswan25" /></a> </p>
 
-- 🔭I’m a full-stack developer. **3**
+- 🔭I’m a full-stack developer. 
 
-- 🌱 I’m currently learning more about cloud services and DevOps practices. **2**
+- 🌱 I’m currently learning more about cloud services and DevOps practices. 
 
-- 👯I’m looking to collaborate on web application projects. **2**
+- 👯I’m looking to collaborate on web application projects. 
 
-- 🤝 I’m looking for help with optimizing performance and scaling apps. **2**
+- 🤝 I’m looking for help with optimizing performance and scaling apps. 
 
-- 💬 Ask me about JavaScript frameworks or database management. **1**
+- 💬 Ask me about JavaScript frameworks or database management. 
 
 - ⚡ Fun fact: I once built a complete app in just 24 hours during a hackathon! **ImCrazy😂**
 
